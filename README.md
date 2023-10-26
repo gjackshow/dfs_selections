@@ -42,3 +42,6 @@ Get ready to up your Daily Fantasy Sports game and make informed decisions with 
 [Check out the visualization tools showing selected rosters for 2023 week 7 Yahoo matchups](https://gjselections.azurewebsites.net)
 
 [And my real-world performance using the tool for the 2023 season](https://gjackshowdfs.azurewebsites.net)
+
+## Contributors
+Reach out to me if you're interested in the algorithmic DFS space and you'd like to share ideas. I have omitted the algorithm from the code so I don't have to play against "myself" but would be happy to discuss generally how it works and areas for improvement.
