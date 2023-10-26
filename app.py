@@ -158,7 +158,7 @@ def update_figure(selected_roster):
     df_plot_sml = df_blah.loc[df_blah['size']<3]
     df_plot_lrg = df_blah.loc[df_blah['size']>=3]
     fig2 = px.scatter(df_plot_sml, x='Salary', y='FPTS', color='Position',
-                    title='Use Slider to View Additional Teams <br><sup>Roster#{} {}</sup>'.format(selected_roster,roster_list),
+                    title='Use Slider to View Additional Lineups<br><sup>Roster#{} {}</sup>'.format(selected_roster,roster_list),
                     text ='text',
                     trendline="ols", 
                     opacity = 0.7,
