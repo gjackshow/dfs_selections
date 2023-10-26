@@ -1,13 +1,16 @@
 # Daily Fantasy Sports Roster Optimizer
 
 Welcome to the Daily Fantasy Sports Roster Optimizer project! 
-My main goal is to help you win money by leveraging the power of machine learning algorithms to create optimized rosters for competitive Daily Fantasy Sports contests. 
 
-## What We Do
+My goal is to help you win money by leveraging the power of machine learning algorithms to create optimized rosters for large-format competitive Daily Fantasy Sports contests. 
+
+Large multi-entry tournaments attract hundreds of thousands of entries with multi-million prize pools. The prizes are heavily weighted. The top score of the week might take home a million, a score in the 20th percentile might double their bet and the bottom 75% go home with nothing.  
+
+## How It's Done
 
 My ML algorithm carefully analyzes the pool of available players and strategically assembles thousands of high-performing rosters while adhering to the salary cap.
 
-You can choose to influence the algorithm's automated choices by prioritizing certain players or "stacking" certain players, e.g. QB and WR from the same team. Or just select a few players you know in your gut are going to go off and let the algorithm take care of the rest!
+The user can choose to influence the algorithm's automated choices by prioritizing certain players or "stacking" certain players, e.g. the QB and a WR from the same team. Or just select a few players you know in your gut are going to go off and let the algorithm take care of the rest!
 
 The "Classic" format, which is commonly used in NFL DFS contests, includes the following positions:
 
@@ -23,11 +26,13 @@ The algorithm is optimized for this format but can be easily extended to other D
 ## Features
 
 - Data scraping and modeling of NFL player projections from 4 sources
-- Remove or "force" include players that you believe are incorrectly projected
+- Remove or "force include" players in case of injury or what your gut is telling you
 - Data-driven roster optimization and ranking
+- Outputs hundreds of eligible rosters for even the largest multi-entry games
+- Choose how your rosters are ranked, e.g. high-risk and high-reward, or choose the "chalk" for 50/50 matchups 
 - Automated settings for NFL Classic contests on Draft Kings and Yahoo
-- See your roster in the "Projections" vs "Salary" space against all other eligible players
-- Understand your exposure in multi-entry contests through visualization
+- See your rosters in the "Projections" vs "Salary" space relative to other eligible players
+- Understand your exposure to individual players in multi-entry contests through visualization
 - Track your account performance over its history
 
 Get ready to up your Daily Fantasy Sports game and make informed decisions with our cutting-edge roster optimization tool. 
