@@ -93,10 +93,12 @@ fig4 = px.scatter(df_full_exposure,
                 size='Freq',
                 title="Hover for player details and exposure level")
 
-app = dash.Dash(__name__)
-app.config.suppress_callback_exceptions=True
+dash_app = dash.Dash(__name__)
+dash_app.config.suppress_callback_exceptions=True
+app = dash_app.server
 
-app.layout = html.Div([
+
+dash_app.layout = html.Div([
     html.H1('Player Selection Dashboard'),
     dcc.Tabs(id="tabs-example-graph", value='tab-1-example-graph', children=[
         dcc.Tab(label='Expected Pts by Salary', value='tab-1-example-graph'),
@@ -179,4 +181,4 @@ def update_figure(selected_roster):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    dash_app.run_server(debug=True)
