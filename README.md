@@ -1,13 +1,13 @@
 # Daily Fantasy Sports Roster Optimizer
 
 Welcome to the Daily Fantasy Sports Roster Optimizer project! 
-Our main goal is to help you win money by leveraging the power of machine learning algorithms to create optimized rosters for competitive Daily Fantasy Sports contests. 
+My main goal is to help you win money by leveraging the power of machine learning algorithms to create optimized rosters for competitive Daily Fantasy Sports contests. 
 
 ## What We Do
 
-Our machine learning algorithm carefully analyzes the pool of available players and strategically assembles thousands of high-performing rosters while adhering to the salary cap.
+My ML algorithm carefully analyzes the pool of available players and strategically assembles thousands of high-performing rosters while adhering to the salary cap.
 
-You can also influence the algorithms choices by picking players you know in your gut are going to go off!
+You can also influence the algorithm's choices by picking players you know in your gut are going to go off!
 
 The "Classic" format, which is commonly used in NFL DFS contests, includes the following positions:
 
@@ -33,5 +33,6 @@ Get ready to up your Daily Fantasy Sports game and make informed decisions with 
 
 ## How to Get Started
 
-Check out our visualization tools at https://gjselections.azurewebsites.net
-And our real-world performance using the tool at https://gjackshowdfs.azurewebsites.net
+[Check out the visualization tools showing selected rosters for 2023 week 7 Yahoo matchups](https://gjselections.azurewebsites.net)
+
+[And my real-world performance using the tool for the 2023 season](https://gjackshowdfs.azurewebsites.net)
