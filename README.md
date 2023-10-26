@@ -34,3 +34,4 @@ Get ready to up your Daily Fantasy Sports game and make informed decisions with 
 ## How to Get Started
 
 Check out our visualization tools at https://gjselections.azurewebsites.net
+And our real-world performance using the tool at https://gjackshowdfs.azurewebsites.net
