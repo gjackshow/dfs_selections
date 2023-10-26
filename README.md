@@ -18,7 +18,7 @@ The "Classic" format, which is commonly used in NFL DFS contests, includes the f
 - 1 Flex (can be either a RB, WR, or TE)
 - 1 Defense/Special Teams (D/ST)
 
-Our algorithm ensures that your roster composition adheres to these position requirements and maximizes your chances of success.
+The algorithm is built for this format but can be easily extended to other formats.
 
 ## Features
 
