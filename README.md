@@ -7,7 +7,7 @@ My main goal is to help you win money by leveraging the power of machine learnin
 
 My ML algorithm carefully analyzes the pool of available players and strategically assembles thousands of high-performing rosters while adhering to the salary cap.
 
-You can also influence the algorithm's choices by picking players you know in your gut are going to go off!
+You can choose to influence the algorithm's automated choices by prioritizing certain players or "stacking" certain players, e.g. QB and WR from the same team. Or just select a few players you know in your gut are going to go off and let the algorithm take care of the rest!
 
 The "Classic" format, which is commonly used in NFL DFS contests, includes the following positions:
 
@@ -18,16 +18,17 @@ The "Classic" format, which is commonly used in NFL DFS contests, includes the f
 - 1 Flex (can be either a RB, WR, or TE)
 - 1 Defense/Special Teams (D/ST)
 
-The algorithm is built for this format but can be easily extended to other formats.
+The algorithm is optimized for this format but can be easily extended to other DFS formats.
 
 ## Features
 
-- Data scraping of prior NFL player results and future projections
+- Data scraping and modeling of NFL player projections from 4 sources
+- Remove or "force" include players that you believe are incorrectly projected
 - Data-driven roster optimization and ranking
-- Remove or include players that you believe will outperform
-- Plays NFL contests on Draft Kings and Yahoo
-- Support for "Classic" roster format
-- Performance through visualization
+- Automated settings for NFL Classic contests on Draft Kings and Yahoo
+- See your roster in the "Projections" vs "Salary" space against all other eligible players
+- Understand your exposure in multi-entry contests through visualization
+- Track your account performance over its history
 
 Get ready to up your Daily Fantasy Sports game and make informed decisions with our cutting-edge roster optimization tool. 
 
