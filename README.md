@@ -11,7 +11,7 @@ There are 50/50 games where it's easier to win, but there's no extra reward for 
 
 In my experience, regardless of which type of competition you're playing in, a computationally assisted person will be better at finding value.
 
-Daily fantasy sports is a game of computational skill. [The data speaks for itself](https://www.draftkings.com/average-results). With 5% of players consistently taking home ~50% of the total prize pool on just 30% of the total bets, it's clear that some players have found an edge.
+Daily fantasy sports is a game of computational skill. [The data](https://www.draftkings.com/average-results) speaks for itself. With 5% of players consistently taking home ~50% of the total prize pool on just 30% of the total bets, it's clear that some players have found an edge.
 
 ## How It's Done
 
